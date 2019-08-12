@@ -1,0 +1,241 @@
+COMPANY,DATE,CLOSE,SECTOR,NEWS,DESCRIPTION
+INFOSYS,2019,742.15,IT,News Event,#1 Large IT Services Company
+INFOSYS,2018,659.85,IT,None,#1 Large IT Services Company
+INFOSYS,2017,519.65,IT,None,#1 Large IT Services Company
+INFOSYS,2016,505.35,IT,None,#1 Large IT Services Company
+INFOSYS,2015,552.28,IT,News Event,#1 Large IT Services Company
+INFOSYS,2014,492.8,IT,None,#1 Large IT Services Company
+INFOSYS,2013,435.69,IT,None,#1 Large IT Services Company
+INFOSYS,2012,289.82,IT,None,#1 Large IT Services Company
+INFOSYS,2011,345.64,IT,None,#1 Large IT Services Company
+INFOSYS,2010,430.63,IT,None,#1 Large IT Services Company
+INFOSYS,2009,325.66,IT,None,#1 Large IT Services Company
+INFOSYS,2008,139.74,IT,News Event,#1 Large IT Services Company
+INFOSYS,2007,221.05,IT,None,#1 Large IT Services Company
+INFOSYS,2006,280.07,IT,None,#1 Large IT Services Company
+INFOSYS,2005,187.3,IT,None,#1 Large IT Services Company
+INFOSYS,2004,130.57,IT,None,#1 Large IT Services Company
+INFOSYS,2003,86.94,IT,None,#1 Large IT Services Company
+INFOSYS,2002,74.55,IT,None,#1 Large IT Services Company
+INFOSYS,2001,63.65,IT,News Event,#1 Large IT Services Company
+INFOSYS,2000,89.15,IT,None,#1 Large IT Services Company
+SILVERLINE,2000,874.1,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2001,247.9,IT,News Event,#2 Emerging IT Services Company
+SILVERLINE,2002,63.6,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2003,21.45,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2004,0,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2005,0,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2006,0,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2007,0,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2008,0,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2009,0,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2010,0,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2011,0,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2012,0,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2013,0,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2014,0,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2015,0,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2016,0,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2017,0,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2018,0,IT,None,#2 Emerging IT Services Company
+SILVERLINE,2019,0,IT,None,#2 Emerging IT Services Company
+PUNJLLOYD,2019,2.31,INFRASTRUCTIRE AND CAPITAL GOODS,News Event,#3 Big Infra Company
+PUNJLLOYD,2018,4.19,INFRASTRUCTIRE AND CAPITAL GOODS,None,#3 Big Infra Company
+PUNJLLOYD,2017,24.3,INFRASTRUCTIRE AND CAPITAL GOODS,None,#3 Big Infra Company
+PUNJLLOYD,2016,18.75,INFRASTRUCTIRE AND CAPITAL GOODS,None,#3 Big Infra Company
+PUNJLLOYD,2015,27.2,INFRASTRUCTIRE AND CAPITAL GOODS,None,#3 Big Infra Company
+PUNJLLOYD,2014,37.2,INFRASTRUCTIRE AND CAPITAL GOODS,None,#3 Big Infra Company
+PUNJLLOYD,2013,28.7,INFRASTRUCTIRE AND CAPITAL GOODS,None,#3 Big Infra Company
+PUNJLLOYD,2012,60.1,INFRASTRUCTIRE AND CAPITAL GOODS,None,#3 Big Infra Company
+PUNJLLOYD,2011,39.55,INFRASTRUCTIRE AND CAPITAL GOODS,None,#3 Big Infra Company
+PUNJLLOYD,2010,111.85,INFRASTRUCTIRE AND CAPITAL GOODS,News Event,#3 Big Infra Company
+PUNJLLOYD,2009,205.05,INFRASTRUCTIRE AND CAPITAL GOODS,None,#3 Big Infra Company
+PUNJLLOYD,2008,147.05,INFRASTRUCTIRE AND CAPITAL GOODS,None,#3 Big Infra Company
+PUNJLLOYD,2007,554.7,INFRASTRUCTIRE AND CAPITAL GOODS,News Event,#3 Big Infra Company
+PUNJLLOYD,2006,205.91,INFRASTRUCTIRE AND CAPITAL GOODS,None,#3 Big Infra Company
+PUNJLLOYD,2005,0,INFRASTRUCTIRE AND CAPITAL GOODS,None,#3 Big Infra Company
+PUNJLLOYD,2004,0,INFRASTRUCTIRE AND CAPITAL GOODS,None,#3 Big Infra Company
+PUNJLLOYD,2003,0,INFRASTRUCTIRE AND CAPITAL GOODS,None,#3 Big Infra Company
+PUNJLLOYD,2002,0,INFRASTRUCTIRE AND CAPITAL GOODS,None,#3 Big Infra Company
+PUNJLLOYD,2001,0,INFRASTRUCTIRE AND CAPITAL GOODS,None,#3 Big Infra Company
+PUNJLLOYD,2000,0,INFRASTRUCTIRE AND CAPITAL GOODS,None,#3 Big Infra Company
+LARSEN,2019,1394,INFRASTRUCTIRE AND CAPITAL GOODS,News Event,#4 Very big Infra Company
+LARSEN,2018,1438.5,INFRASTRUCTIRE AND CAPITAL GOODS,None,#4 Very big Infra Company
+LARSEN,2017,1256.95,INFRASTRUCTIRE AND CAPITAL GOODS,None,#4 Very big Infra Company
+LARSEN,2016,899.64,INFRASTRUCTIRE AND CAPITAL GOODS,None,#4 Very big Infra Company
+LARSEN,2015,850.48,INFRASTRUCTIRE AND CAPITAL GOODS,News Event,#4 Very big Infra Company
+LARSEN,2014,997.72,INFRASTRUCTIRE AND CAPITAL GOODS,None,#4 Very big Infra Company
+LARSEN,2013,713.3,INFRASTRUCTIRE AND CAPITAL GOODS,None,#4 Very big Infra Company
+LARSEN,2012,717.32,INFRASTRUCTIRE AND CAPITAL GOODS,None,#4 Very big Infra Company
+LARSEN,2011,444.5,INFRASTRUCTIRE AND CAPITAL GOODS,None,#4 Very big Infra Company
+LARSEN,2010,884.02,INFRASTRUCTIRE AND CAPITAL GOODS,None,#4 Very big Infra Company
+LARSEN,2009,750.17,INFRASTRUCTIRE AND CAPITAL GOODS,None,#4 Very big Infra Company
+LARSEN,2008,345.92,INFRASTRUCTIRE AND CAPITAL GOODS,News Event,#4 Very big Infra Company
+LARSEN,2007,931.76,INFRASTRUCTIRE AND CAPITAL GOODS,None,#4 Very big Infra Company
+LARSEN,2006,322.28,INFRASTRUCTIRE AND CAPITAL GOODS,None,#4 Very big Infra Company
+LARSEN,2005,205.94,INFRASTRUCTIRE AND CAPITAL GOODS,None,#4 Very big Infra Company
+LARSEN,2004,109.67,INFRASTRUCTIRE AND CAPITAL GOODS,None,#4 Very big Infra Company
+LARSEN,2003,58.89,INFRASTRUCTIRE AND CAPITAL GOODS,None,#4 Very big Infra Company
+LARSEN,2002,23.85,INFRASTRUCTIRE AND CAPITAL GOODS,None,#4 Very big Infra Company
+LARSEN,2001,21.37,INFRASTRUCTIRE AND CAPITAL GOODS,News Event,#4 Very big Infra Company
+LARSEN,2000,21.85,INFRASTRUCTIRE AND CAPITAL GOODS,None,#4 Very big Infra Company
+SRI ADHIKARI BROTHERS,2019,5.27,MEDIA,None,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2018,5.85,MEDIA,None,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2017,21.8,MEDIA,None,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2016,285.9,MEDIA,None,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2015,366.3,MEDIA,News Event,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2014,209,MEDIA,None,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2013,74.9,MEDIA,None,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2012,92.35,MEDIA,None,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2011,61.75,MEDIA,None,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2010,57.55,MEDIA,None,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2009,32.85,MEDIA,None,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2008,12.99,MEDIA,News Event,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2007,108.3,MEDIA,None,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2006,14.55,MEDIA,None,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2005,21.5,MEDIA,None,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2004,21.65,MEDIA,None,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2003,16.95,MEDIA,None,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2002,18.92,MEDIA,None,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2001,26.43,MEDIA,News Event,#5 Celebrity Media
+SRI ADHIKARI BROTHERS,2000,41.3,MEDIA,None,#5 Celebrity Media
+ZEE ENTERTAINMENT,2019,435.25,MEDIA,None,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2018,475.7,MEDIA,None,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2017,582.2,MEDIA,News Event,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2016,452.15,MEDIA,None,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2015,437.05,MEDIA,None,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2014,380.75,MEDIA,None,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2013,276.55,MEDIA,None,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2012,220.9,MEDIA,None,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2011,118.05,MEDIA,None,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2010,147.05,MEDIA,None,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2009,128.38,MEDIA,None,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2008,69.85,MEDIA,News Event,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2007,164.15,MEDIA,None,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2006,146.68,MEDIA,None,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2005,78.45,MEDIA,None,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2004,85.55,MEDIA,None,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2003,75.03,MEDIA,None,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2002,48.75,MEDIA,None,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2001,55.83,MEDIA,News Event,#6 Media Conglomerate
+ZEE ENTERTAINMENT,2000,138.5,MEDIA,None,#6 Media Conglomerate
+DABUR INDIA,2019,424.95,FMCG,News Event,#7 Health is Wealth
+DABUR INDIA,2018,431,FMCG,None,#7 Health is Wealth
+DABUR INDIA,2017,348.6,FMCG,None,#7 Health is Wealth
+DABUR INDIA,2016,277.05,FMCG,None,#7 Health is Wealth
+DABUR INDIA,2015,276.6,FMCG,None,#7 Health is Wealth
+DABUR INDIA,2014,233.55,FMCG,News Event,#7 Health is Wealth
+DABUR INDIA,2013,170.2,FMCG,None,#7 Health is Wealth
+DABUR INDIA,2012,128.75,FMCG,None,#7 Health is Wealth
+DABUR INDIA,2011,99.75,FMCG,None,#7 Health is Wealth
+DABUR INDIA,2010,100.25,FMCG,None,#7 Health is Wealth
+DABUR INDIA,2009,79.48,FMCG,None,#7 Health is Wealth
+DABUR INDIA,2008,42,FMCG,News Event,#7 Health is Wealth
+DABUR INDIA,2007,57.1,FMCG,None,#7 Health is Wealth
+DABUR INDIA,2006,48.96,FMCG,None,#7 Health is Wealth
+DABUR INDIA,2005,70.16,FMCG,None,#7 Health is Wealth
+DABUR INDIA,2004,15.49,FMCG,None,#7 Health is Wealth
+DABUR INDIA,2003,14.73,FMCG,None,#7 Health is Wealth
+DABUR INDIA,2002,7.31,FMCG,None,#7 Health is Wealth
+DABUR INDIA,2001,11.32,FMCG,News Event,#7 Health is Wealth
+DABUR INDIA,2000,11.28,FMCG,None,#7 Health is Wealth
+NESTLE INDIA,2019,10598.05,FMCG,None,#8 Largest Food Company
+NESTLE INDIA,2018,11107.25,FMCG,News Event,#8 Largest Food Company
+NESTLE INDIA,2017,7845,FMCG,None,#8 Largest Food Company
+NESTLE INDIA,2016,6029.8,FMCG,None,#8 Largest Food Company
+NESTLE INDIA,2015,5824.1,FMCG,None,#8 Largest Food Company
+NESTLE INDIA,2014,6379.8,FMCG,News Event,#8 Largest Food Company
+NESTLE INDIA,2013,5297.25,FMCG,None,#8 Largest Food Company
+NESTLE INDIA,2012,4990.4,FMCG,None,#8 Largest Food Company
+NESTLE INDIA,2011,4172.7,FMCG,None,#8 Largest Food Company
+NESTLE INDIA,2010,3795.2,FMCG,None,#8 Largest Food Company
+NESTLE INDIA,2009,2547.95,FMCG,None,#8 Largest Food Company
+NESTLE INDIA,2008,1452.75,FMCG,News Event,#8 Largest Food Company
+NESTLE INDIA,2007,1499.9,FMCG,None,#8 Largest Food Company
+NESTLE INDIA,2006,1136.45,FMCG,None,#8 Largest Food Company
+NESTLE INDIA,2005,936.2,FMCG,None,#8 Largest Food Company
+NESTLE INDIA,2004,584.7,FMCG,None,#8 Largest Food Company
+NESTLE INDIA,2003,689.5,FMCG,None,#8 Largest Food Company
+NESTLE INDIA,2002,523.25,FMCG,None,#8 Largest Food Company
+NESTLE INDIA,2001,516,FMCG,News Event,#8 Largest Food Company
+NESTLE INDIA,2000,548.85,FMCG,None,#8 Largest Food Company
+KARNATAKA BANK,2019,128.6,PRIVATE SECTOR BANK,None,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2018,112.05,PRIVATE SECTOR BANK,None,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2017,151.8,PRIVATE SECTOR BANK,News Event,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2016,111.8,PRIVATE SECTOR BANK,None,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2015,99.98,PRIVATE SECTOR BANK,None,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2014,118.96,PRIVATE SECTOR BANK,None,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2013,90.69,PRIVATE SECTOR BANK,News Event,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2012,136.47,PRIVATE SECTOR BANK,None,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2011,53.23,PRIVATE SECTOR BANK,None,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2010,123.34,PRIVATE SECTOR BANK,None,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2009,96.81,PRIVATE SECTOR BANK,None,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2008,58.97,PRIVATE SECTOR BANK,News Event,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2007,166.47,PRIVATE SECTOR BANK,None,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2006,113.15,PRIVATE SECTOR BANK,None,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2005,80.97,PRIVATE SECTOR BANK,None,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2004,155.41,PRIVATE SECTOR BANK,None,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2003,90.86,PRIVATE SECTOR BANK,News Event,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2002,32.21,PRIVATE SECTOR BANK,None,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2001,0,PRIVATE SECTOR BANK,None,#9 Private sector bank that sounds like a public bank
+KARNATAKA BANK,2000,0,PRIVATE SECTOR BANK,None,#9 Private sector bank that sounds like a public bank
+INDUSIND BANK,2019,1700.3,PRIVATE SECTOR BANK,None,#10 New Generation Bank
+INDUSIND BANK,2018,1599.05,PRIVATE SECTOR BANK,None,#10 New Generation Bank
+INDUSIND BANK,2017,1650.25,PRIVATE SECTOR BANK,News Event,#10 New Generation Bank
+INDUSIND BANK,2016,1107.45,PRIVATE SECTOR BANK,None,#10 New Generation Bank
+INDUSIND BANK,2015,968.75,PRIVATE SECTOR BANK,None,#10 New Generation Bank
+INDUSIND BANK,2014,802.55,PRIVATE SECTOR BANK,None,#10 New Generation Bank
+INDUSIND BANK,2013,420.1,PRIVATE SECTOR BANK,None,#10 New Generation Bank
+INDUSIND BANK,2012,416.85,PRIVATE SECTOR BANK,News Event,#10 New Generation Bank
+INDUSIND BANK,2011,225.35,PRIVATE SECTOR BANK,None,#10 New Generation Bank
+INDUSIND BANK,2010,265.45,PRIVATE SECTOR BANK,None,#10 New Generation Bank
+INDUSIND BANK,2009,142.05,PRIVATE SECTOR BANK,None,#10 New Generation Bank
+INDUSIND BANK,2008,37.65,PRIVATE SECTOR BANK,News Event,#10 New Generation Bank
+INDUSIND BANK,2007,127.8,PRIVATE SECTOR BANK,None,#10 New Generation Bank
+INDUSIND BANK,2006,47.25,PRIVATE SECTOR BANK,None,#10 New Generation Bank
+INDUSIND BANK,2005,58.3,PRIVATE SECTOR BANK,None,#10 New Generation Bank
+INDUSIND BANK,2004,60.6,PRIVATE SECTOR BANK,None,#10 New Generation Bank
+INDUSIND BANK,2003,42.05,PRIVATE SECTOR BANK,None,#10 New Generation Bank
+INDUSIND BANK,2002,15.4,PRIVATE SECTOR BANK,News Event,#10 New Generation Bank
+INDUSIND BANK,2001,10.5,PRIVATE SECTOR BANK,None,#10 New Generation Bank
+INDUSIND BANK,2000,21,PRIVATE SECTOR BANK,None,#10 New Generation Bank
+SHREE CEMENTS,2019,18128.45,CEMENT,None,#11 Largest Cement makes from the North
+SHREE CEMENTS,2018,17212.45,CEMENT,News Event,#11 Largest Cement makes from the North
+SHREE CEMENTS,2017,18038.7,CEMENT,None,#11 Largest Cement makes from the North
+SHREE CEMENTS,2016,14724.7,CEMENT,None,#11 Largest Cement makes from the North
+SHREE CEMENTS,2015,11472.6,CEMENT,None,#11 Largest Cement makes from the North
+SHREE CEMENTS,2014,9412.1,CEMENT,News Event,#11 Largest Cement makes from the North
+SHREE CEMENTS,2013,4330.45,CEMENT,None,#11 Largest Cement makes from the North
+SHREE CEMENTS,2012,4651.45,CEMENT,None,#11 Largest Cement makes from the North
+SHREE CEMENTS,2011,2167.4,CEMENT,None,#11 Largest Cement makes from the North
+SHREE CEMENTS,2010,2003.7,CEMENT,None,#11 Largest Cement makes from the North
+SHREE CEMENTS,2009,1926.1,CEMENT,None,#11 Largest Cement makes from the North
+SHREE CEMENTS,2008,460.4,CEMENT,News Event,#11 Largest Cement makes from the North
+SHREE CEMENTS,2007,1361.15,CEMENT,None,#11 Largest Cement makes from the North
+SHREE CEMENTS,2006,1457.45,CEMENT,None,#11 Largest Cement makes from the North
+SHREE CEMENTS,2005,489.5,CEMENT,None,#11 Largest Cement makes from the North
+SHREE CEMENTS,2004,252.8,CEMENT,None,#11 Largest Cement makes from the North
+SHREE CEMENTS,2003,150.4,CEMENT,None,#11 Largest Cement makes from the North
+SHREE CEMENTS,2002,51,CEMENT,News Event,#11 Largest Cement makes from the North
+SHREE CEMENTS,2001,45.35,CEMENT,None,#11 Largest Cement makes from the North
+SHREE CEMENTS,2000,57.9,CEMENT,None,#11 Largest Cement makes from the North
+ACC,2019,1579.5,CEMENT,None,#12 Big old Cement Company
+ACC,2018,1504.8,CEMENT,None,#12 Big old Cement Company
+ACC,2017,1757.9,CEMENT,News Event,#12 Big old Cement Company
+ACC,2016,1328.4,CEMENT,None,#12 Big old Cement Company
+ACC,2015,1359.55,CEMENT,None,#12 Big old Cement Company
+ACC,2014,1399.4,CEMENT,None,#12 Big old Cement Company
+ACC,2013,1108.2,CEMENT,News Event,#12 Big old Cement Company
+ACC,2012,1429.4,CEMENT,None,#12 Big old Cement Company
+ACC,2011,1136.35,CEMENT,None,#12 Big old Cement Company
+ACC,2010,1075.6,CEMENT,None,#12 Big old Cement Company
+ACC,2009,871.5,CEMENT,None,#12 Big old Cement Company
+ACC,2008,477.9,CEMENT,News Event,#12 Big old Cement Company
+ACC,2007,1024.5,CEMENT,None,#12 Big old Cement Company
+ACC,2006,1085.55,CEMENT,None,#12 Big old Cement Company
+ACC,2005,534.2,CEMENT,None,#12 Big old Cement Company
+ACC,2004,338.7,CEMENT,None,#12 Big old Cement Company
+ACC,2003,245.55,CEMENT,None,#12 Big old Cement Company
+ACC,2002,165.1,CEMENT,None,#12 Big old Cement Company
+ACC,2001,151.8,CEMENT,News Event,#12 Big old Cement Company
+ACC,2000,159,CEMENT,None,#12 Big old Cement Company
